@@ -24,7 +24,8 @@ happier man. I feel nostalgic everytime I type on this keyboard, which is why I 
 using it when I want to concentrate on doing work.
 
 ![Model F](https://raw.github.com/avendael/use/master/model_f.jpg)
-The first keyboard I used was an IBM Model F from an old XT PC. It uses the same
+
+When I was very young I used was an IBM Model F from an old XT PC. It has the same
 buckling spring mechanism as the Model M, but has capacitive contacts instead of
 membrane contacts, which gives it a lighter feel. I got this keyboard from ebay because
 the old Model F our family used to own suffered the same fate as our old Model M.
@@ -32,6 +33,7 @@ I barely use this keyboard because of the weird layout, and I don't even feel no
 when using it because I was too young when I first used a Model F.
 
 ![HHKB and Magic Mouse](https://raw.github.com/avendael/use/master/hhkb_and_mm.jpg)
+
 HHKB Pro 2 is my daily driver. I bring it with me everyday. While I like the feel of
 topre switches and the layout of the HHKB, I still prefer clicky switches. This one
 has no labels because I like the way it looks, and I can type without looking at the
@@ -41,6 +43,7 @@ keyboard anyway. I type fastest on buckling springs (~100wpm) followed by topres
 I barely use a mouse when I'm working, but if I do, I use a Magic Mouse.
 
 ![G700](https://raw.github.com/avendael/use/master/g700.JPG)
+
 For gaming, I use a Logitech G700.
 
 I also have a Logitech Trackman Marble, but I find it hard to use on OSX because it
