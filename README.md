@@ -72,7 +72,11 @@ integration. I ssh into a remote machine with the usual `C-x C-f`, and then `M-x
 to have a shell in that remote machine. For personal task lists I use `org-mode` which
 also has a nice iOS app. I hardly ever use Finder because of `dired`, and I hardly ever
 use Preview because emacs can open images and pdfs. For email, I use `gnus`, but at work
-I use Mail.
+I use Mail. `magit` is also the best interface there is for git. I used to use vim
+before I chose to use Emacs instead. If `evil-mode` was there when I made the switch,
+I'll probably be using it. As of now though, it's just there for the times I kind of
+miss using vim's keybindings. I grew fond of Emacs keybinding because I can also use it
+outside Emacs, esp. in OSX.
 
 For Android and other Java stuff, I use IntelliJ. I'm patiently waiting for the day
 when Emacs can finally match up to IntelliJ in terms of Java. I used to use `jdee` in
@@ -101,4 +105,4 @@ For my dream keyboard, I want an Ergodox with either topres or buckling springs,
 and an hhkb with buckling springs. My dream laptop would have topres instead of scissor
 switches, huge SSD and RAM capacity, whatever discrete graphics card is hip, and a
 CPU that has Bitcoin mining mode so that I don't have to buy a separate ASIC Bitcoin
-miner.
+miner. Also two large monitors would be nice, perhaps Thunderbolt displays.
