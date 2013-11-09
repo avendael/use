@@ -40,7 +40,7 @@ keyboard anyway. I type fastest on buckling springs (~100wpm) followed by topres
 
 I barely use a mouse when I'm working, but if I do, I use a Magic Mouse.
 
-![G700](https://raw.github.com/avendael/use/master/g700.jpg)
+![G700](https://raw.github.com/avendael/use/master/g700.JPG)
 For gaming, I use a Logitech G700.
 
 I also have a Logitech Trackman Marble, but I find it hard to use on OSX because it
@@ -60,7 +60,8 @@ phone for a change.
 
 ## And what software?
 
-![G700](https://raw.github.com/avendael/use/master/emacs_icon.png)
+![Emacs](https://raw.github.com/avendael/use/master/emacs_icon.png)
+
 I use Emacs for almost everything. I hardly ever use a terminal because I can run shells
 inside Emacs. Plain old `shell` usually does the trick, but I sometimes use `ansi-term`
 for stuff that require ansi compatibility. What I like about `shell` is its `TRAMP`
