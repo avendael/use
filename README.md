@@ -98,7 +98,7 @@ usage using a native language.
 ## What would be your dream setup?
 
 For my dream keyboard, I want an Ergodox with either topres or buckling springs,
-an hhkb with buckling springs. My dream laptop would have topres instead of scissor
+and an hhkb with buckling springs. My dream laptop would have topres instead of scissor
 switches, huge SSD and RAM capacity, whatever discrete graphics card is hip, and a
 CPU that has Bitcoin mining mode so that I don't have to buy a separate ASIC Bitcoin
 miner.
