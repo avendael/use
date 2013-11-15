@@ -17,6 +17,7 @@ on. I'm planning to upgrade to a 2013 Macbook Retina Pro once it becomes availab
 the PH, so that I can ditch my desktop. At work I use a mid-2012 Macbook Pro 13".
 
 ![Model M](https://raw.github.com/avendael/use/master/model_m.jpg)
+
 I'm a huge mechanical keyboard fan. When I was younger I used to have an IBM Model M,
 but I was too young to realize the legend that is the Model M. Now that I'm older,
 I bought a Model M from [clickykeyboards](http://clickykeyboards.com) and became a
@@ -83,7 +84,21 @@ when Emacs can finally match up to IntelliJ in terms of Java. I used to use `jde
 Emacs, but IntelliJ is the superior tool.
 
 Ever since Genymotion was introduced to me, I started using emulators more. It's really
-fast, even faster than Android emulators using Intel HAX.
+fast, even faster than Android emulators using Intel HAX. It's free, and only requires
+a signup, which isn't really a big deal.
+
+[Quicksilver](http://qsapp.com/). It's stable, open source, and actively being developed. I've used it ever
+since I made the jump to OSX and never had any problem with it. Because of it, I never
+really use ⌘-TAB to switch between apps. Instead, I've [set up triggers](http://blog.avendael.com/2011/10/24/linux_to_osx/#.UoY5tmSztvY) for the
+apps that I use the most.
+
+Configuration über alles. I'd rather bend my environment to my will than reluctantly
+adapt to it. [Mercury Mover](http://www.heliumfoot.com/mercurymover/) to move and resize windows. Combined with
+[Stay](http://cordlessdog.com/stay/), it's the closest that I can get to a tiling
+window manager without breaking the OSX experience. [KeyRemap4MacBook](https://pqrs.org/macosx/keyremap4macbook/) for a faster
+key repeat rate, and other custom keybindings. [MagicPrefs](http://magicprefs.com/) to fix OSX
+mouse acceleration curve. [Caffeine](http://lightheadsw.com/caffeine/) so that I can lay waste
+to my battery life when AFK.
 
 While I don't do much art, I use Pixelmator for programmer art and for creating 9gag
 posts.
