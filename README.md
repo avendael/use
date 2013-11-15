@@ -103,9 +103,9 @@ to my battery life when AFK.
 While I don't do much art, I use Pixelmator for programmer art and for creating 9gag
 posts.
 
-For shell scripts, I either use Python or Bash. I'm tried to use Node.js to write
+For shell scripts, I either use Python or Bash. I tried to use Node.js to write
 shell scripts, but I still find Python and Bash to be the superior tool for this use
-case.
+case. Most probably though, that's because I still don't know the JS ecosystem enough.
 
 I used to use Django for web stuff, but recently switched to Node.js because it makes
 so much sense for the web. Let's Javascript everything! If one day Javascript came
@@ -116,8 +116,12 @@ usage using a native language.
 
 ## What would be your dream setup?
 
-For my dream keyboard, I want an Ergodox with either topres or buckling springs,
+Hardware wise, I want an Ergodox with either topres or buckling springs,
 and an hhkb with buckling springs. My dream laptop would have topres instead of scissor
 switches, huge SSD and RAM capacity, whatever discrete graphics card is hip, and a
 CPU that has Bitcoin mining mode so that I don't have to buy a separate ASIC Bitcoin
 miner. Also two large monitors would be nice, perhaps Thunderbolt displays.
+
+Software wise, I want better Java tools for Emacs. I'd really like to use Emacs for all
+my programming needs, and Java is the only thing that's holding me back. Perhaps there
+are already better tools out there for this use case, and I truly hope so.
